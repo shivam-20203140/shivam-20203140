@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shivam Rana 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Data structure and Algorithm
 - 📫 How to reach me sr999984@gmail.com
 
 <!---
